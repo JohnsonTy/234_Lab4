@@ -1,0 +1,16 @@
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0-windows\mySqlSettingsExample.json
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0-windows\MMABooksEFClasses.deps.json
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0-windows\MMABooksEFClasses.runtimeconfig.json
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0-windows\MMABooksEFClasses.dll
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0-windows\MMABooksEFClasses.pdb
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0-windows\MMABooksEFClasses.csproj.AssemblyReference.cache
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0-windows\MMABooksEFClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0-windows\MMABooksEFClasses.AssemblyInfoInputs.cache
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0-windows\MMABooksEFClasses.AssemblyInfo.cs
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0-windows\MMABooksEFClasses.csproj.CoreCompileInputs.cache
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0-windows\MMABooksEFClasses.sourcelink.json
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0-windows\MMABooksEFClasses.dll
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0-windows\refint\MMABooksEFClasses.dll
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0-windows\MMABooksEFClasses.pdb
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0-windows\MMABooksEFClasses.genruntimeconfig.cache
+C:\Users\starm\Desktop\Computing\Classes\LindoDB\Lab4 - EFCoreImplementation_StarterFiles\POSSIBLEUPDATE\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0-windows\ref\MMABooksEFClasses.dll

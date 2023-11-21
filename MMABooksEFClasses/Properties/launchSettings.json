@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MMABooksEFClasses": {
+      "commandName": "Project",
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}
