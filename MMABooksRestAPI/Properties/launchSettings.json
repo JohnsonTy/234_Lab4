@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MMABooksRestAPI": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:38296;http://localhost:38297"
+    }
+  }
+}

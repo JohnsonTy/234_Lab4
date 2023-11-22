@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EIYKIPWf2nWjJF3MHwdgFzOgFTou2F+UC41cklYZ8C4=",
+  "Source": "MMABooksRestAPI",
+  "BasePath": "_content/MMABooksRestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
